@@ -1,4 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+https://www.tutorialspoint.com/execute_dart_online.php for online execution
 
 dart run lib/pattern1.dart
